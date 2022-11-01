@@ -1,0 +1,17 @@
+{
+    "name": "creater777/sms-worker",
+    "description": "library for work with sms mts gateway",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "smsworker\\": "src/"
+        }
+    }
+}
